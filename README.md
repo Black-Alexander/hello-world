@@ -1,2 +1,2 @@
 # hello-world
-Becoming a coding man
+Becoming a coding man by myself!
